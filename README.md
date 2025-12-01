@@ -35,3 +35,6 @@ ls -a # show ALL output
 # if we are in the correct folder, we want to create the project in
 dotnet new console --use-program-main # pass the last argument --use-program-main to get the full class syntax, otherwise, we get the "top-level statements" this is harder to understand when we are first learning the language.
 ```
+
+### Diagram
+![alt text](image.png)
